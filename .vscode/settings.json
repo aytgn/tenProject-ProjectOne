@@ -1,22 +1,20 @@
 {
   "debug.openExplorerOnEnd": true,
   "editor.tabSize": 2,
-  "editor.rulers": [
-    90
-  ],
+  "editor.rulers": [],
   "editor.autoIndent": "full",
   "editor.cursorBlinking": "solid",
   "editor.formatOnType": false,
   "editor.formatOnPaste": false,
   "editor.formatOnSave": true,
-  "editor.minimap.enabled": false,
+  "editor.minimap.enabled": true,
   "editor.codeActionsOnSave": {
     "source.organizeImports": false,
     "source.fixAll.tslint": true
   },
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "[html]": {
-    "editor.defaultFormatter": "HookyQR.beautify"
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
   "explorer.openEditors.visible": 0,
   "files.trimTrailingWhitespace": true,
